@@ -1,0 +1,31 @@
+{
+  "name": "network-security-guardian",
+  "version": "1.0.0",
+  "description": "Guardian for network security, providing tools for threat detection and mitigation.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/starstruckman/network-security-guardian"
+  },
+  "author": "starstruckman",
+  "license": "MIT",
+  "dependencies": {
+    "network-security-guardian": "1.0.0",
+    "video-streaming-engine": "1.0.0",
+    "async": "1.0.0",
+    "mysql": "1.0.0",
+    "passport": "1.0.0",
+    "mongoose": "1.0.0",
+    "moment": "1.0.0",
+    "redux": "1.0.0",
+    "dotenv": "1.0.0",
+    "eth-crypto": "1.0.0",
+    "babel-core": "1.0.0",
+    "sequelize": "1.0.0",
+    "truffle": "1.0.0",
+    "cors": "1.0.0"
+  }
+}
